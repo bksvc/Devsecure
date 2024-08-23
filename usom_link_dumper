@@ -1,5 +1,17 @@
 #!/bin/bash
 
+#######################################
+# This Script Created By: Burak Savcı #
+#######################################
+
+###############################################################################################
+#																							  #
+# WARNING !!! 																				  #
+#																							  #
+# Responsibility for any unauthorized use or misuse of this resource rests entirely with you. #
+#																							  #
+###############################################################################################
+
 # IF THERE IS AN ERROR, STOP
 set -euo pipefail
 
