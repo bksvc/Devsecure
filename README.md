@@ -1,6 +1,5 @@
-# Responsibility for any unauthorized use or misuse of this resource rests entirely with you.
-## USOM Link Dumper
-
+# USOM Link Dumper
+## WARNING!, Responsibility for any unauthorized use or misuse of this resource rests entirely with you.
 ### Usage
 ```bash
 # Give runnable permission 
